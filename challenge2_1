@@ -1,7 +1,11 @@
 #!/bin/bash
 
-val_variable_name="Hellow,World2 - val chaning first line without pulling " 
-
+<<<<<<< HEAD
+val_variable_name="Challenge 2" #(1) make a change to the first line of the file
+=======
+val_variable_name="Challenge 2" #(1) make a change to the first line of the file 
+>>>>>>> 8a91b9771ff90f2ba466ab4f64923fa3e81d024c
+#manually fixed differences in line 1
 echo "Starting script..."
 
 echo $val_variable_name
