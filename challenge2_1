@@ -1,6 +1,6 @@
 #!/bin/bash
 
-val_variable_name="Hellow,World2" 
+val_variable_name="Hellow,World2 - val chaning first line without pulling " 
 
 echo "Starting script..."
 
