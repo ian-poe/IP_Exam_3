@@ -1,0 +1,7 @@
+#!/bin/bash
+
+variable_name="Hello, World!"
+
+echo "Starting script..."
+
+echo $variable_name
