@@ -4,4 +4,5 @@ variable_name="Hello, World!"
 
 echo "Starting script..."
 
-echo $variable_name
+echo $val_variable_name #(1) make a change to the last line
+
