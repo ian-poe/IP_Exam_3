@@ -1,6 +1,6 @@
 #!/bin/bash
 
-val_variable_name="Hellow,World2" 
+val_variable_name="Challenge 2" #(1) make a change to the first line of the file 
 
 echo "Starting script..."
 
