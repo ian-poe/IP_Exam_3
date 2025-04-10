@@ -1,0 +1,7 @@
+#!/bin/bash
+
+val_variable_name="Hellow,World2" 
+
+echo "Starting script..."
+
+echo $val_variable_name e
